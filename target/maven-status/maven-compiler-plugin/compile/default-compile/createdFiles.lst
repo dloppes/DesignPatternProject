@@ -1,0 +1,10 @@
+testBuilder.class
+Model\Company.class
+DepotInterfaces\DepotPlan.class
+CompanyInterfaces\CompanyBuilder.class
+Model\Depot.class
+Controller\CompanyController.class
+DepotInterfaces\DepotBuilder.class
+CompanyInterfaces\CompanyPlan.class
+Model\DefaultCompany.class
+Model\DefaultDepot.class

@@ -1,0 +1,301 @@
+[Depot C1 
+Native Product: 15 | Product Name: Tea | Depot Cash:346.48 | First Company - External Product: 12 | Second Company - External Product: 19
+, Depot C2 
+Native Product: 15 | Product Name: Tea | Depot Cash:79.35 | First Company - External Product: 15 | Second Company - External Product: 38
+, Depot C3 
+Native Product: 15 | Product Name: Tea | Depot Cash:239.1 | First Company - External Product: 40 | Second Company - External Product: 11
+, Depot C4 
+Native Product: 15 | Product Name: Tea | Depot Cash:47.14 | First Company - External Product: 19 | Second Company - External Product: 14
+, Depot C5 
+Native Product: 15 | Product Name: Tea | Depot Cash:397.81 | First Company - External Product: 40 | Second Company - External Product: 38
+, Depot C6 
+Native Product: 15 | Product Name: Tea | Depot Cash:273.15 | First Company - External Product: 40 | Second Company - External Product: 34
+, Depot C7 
+Native Product: 15 | Product Name: Tea | Depot Cash:377.15 | First Company - External Product: 19 | Second Company - External Product: 11
+, Depot C8 
+Native Product: 15 | Product Name: Tea | Depot Cash:264.83 | First Company - External Product: 40 | Second Company - External Product: 32
+, Depot C9 
+Native Product: 15 | Product Name: Tea | Depot Cash:226.95 | First Company - External Product: 28 | Second Company - External Product: 39
+, Depot C10 
+Native Product: 15 | Product Name: Tea | Depot Cash:45.94 | First Company - External Product: 34 | Second Company - External Product: 6
+, Depot C11 
+Native Product: 15 | Product Name: Tea | Depot Cash:154.67 | First Company - External Product: 27 | Second Company - External Product: 25
+, Depot C12 
+Native Product: 15 | Product Name: Tea | Depot Cash:205.36 | First Company - External Product: 15 | Second Company - External Product: 39
+, Depot C13 
+Native Product: 15 | Product Name: Tea | Depot Cash:378.4 | First Company - External Product: 22 | Second Company - External Product: 32
+, Depot C14 
+Native Product: 15 | Product Name: Tea | Depot Cash:241.9 | First Company - External Product: 29 | Second Company - External Product: 36
+, Depot C15 
+Native Product: 15 | Product Name: Tea | Depot Cash:55.74 | First Company - External Product: 40 | Second Company - External Product: 14
+, Depot C16 
+Native Product: 15 | Product Name: Tea | Depot Cash:375.87 | First Company - External Product: 40 | Second Company - External Product: 39
+, Depot C17 
+Native Product: 15 | Product Name: Tea | Depot Cash:225.94 | First Company - External Product: 19 | Second Company - External Product: 6
+, Depot C18 
+Native Product: 15 | Product Name: Tea | Depot Cash:43.71 | First Company - External Product: 21 | Second Company - External Product: 10
+, Depot C19 
+Native Product: 15 | Product Name: Tea | Depot Cash:79.69 | First Company - External Product: 29 | Second Company - External Product: 39
+, Depot C20 
+Native Product: 15 | Product Name: Tea | Depot Cash:151.28 | First Company - External Product: 40 | Second Company - External Product: 20
+, Depot C21 
+Native Product: 15 | Product Name: Tea | Depot Cash:371.24 | First Company - External Product: 14 | Second Company - External Product: 34
+, Depot C22 
+Native Product: 15 | Product Name: Tea | Depot Cash:180.06 | First Company - External Product: 11 | Second Company - External Product: 3
+, Depot C23 
+Native Product: 15 | Product Name: Tea | Depot Cash:210.06 | First Company - External Product: 40 | Second Company - External Product: 28
+, Depot C24 
+Native Product: 15 | Product Name: Tea | Depot Cash:46.16 | First Company - External Product: 35 | Second Company - External Product: 33
+, Depot C25 
+Native Product: 15 | Product Name: Tea | Depot Cash:76.71 | First Company - External Product: 40 | Second Company - External Product: 7
+, Depot C26 
+Native Product: 15 | Product Name: Tea | Depot Cash:58.63 | First Company - External Product: 23 | Second Company - External Product: 22
+, Depot C27 
+Native Product: 15 | Product Name: Tea | Depot Cash:224.53 | First Company - External Product: 20 | Second Company - External Product: 21
+, Depot C28 
+Native Product: 15 | Product Name: Tea | Depot Cash:299.63 | First Company - External Product: 11 | Second Company - External Product: 26
+, Depot C29 
+Native Product: 15 | Product Name: Tea | Depot Cash:13.25 | First Company - External Product: 20 | Second Company - External Product: 5
+, Depot C30 
+Native Product: 15 | Product Name: Tea | Depot Cash:321.09 | First Company - External Product: 40 | Second Company - External Product: 22
+, Depot C31 
+Native Product: 15 | Product Name: Tea | Depot Cash:554.19 | First Company - External Product: 25 | Second Company - External Product: 4
+, Depot C32 
+Native Product: 15 | Product Name: Tea | Depot Cash:221.02 | First Company - External Product: 26 | Second Company - External Product: 39
+, Depot C33 
+Native Product: 15 | Product Name: Tea | Depot Cash:474.1 | First Company - External Product: 34 | Second Company - External Product: 7
+, Depot C34 
+Native Product: 15 | Product Name: Tea | Depot Cash:92.7 | First Company - External Product: 40 | Second Company - External Product: 24
+, Depot C35 
+Native Product: 15 | Product Name: Tea | Depot Cash:73.92 | First Company - External Product: 15 | Second Company - External Product: 15
+, Depot C36 
+Native Product: 15 | Product Name: Tea | Depot Cash:87.29 | First Company - External Product: 21 | Second Company - External Product: 20
+, Depot C37 
+Native Product: 22 | Product Name: Tea | Depot Cash:295.54 | First Company - External Product: 11 | Second Company - External Product: 26
+, Depot C38 
+Native Product: 15 | Product Name: Tea | Depot Cash:29.79 | First Company - External Product: 40 | Second Company - External Product: 13
+, Depot C39 
+Native Product: 28 | Product Name: Tea | Depot Cash:0.86 | First Company - External Product: 15 | Second Company - External Product: 21
+, Depot C40 
+Native Product: 38 | Product Name: Tea | Depot Cash:0.98 | First Company - External Product: 37 | Second Company - External Product: 37
+, Depot C41 
+Native Product: 47 | Product Name: Tea | Depot Cash:7.97 | First Company - External Product: 32 | Second Company - External Product: 24
+, Depot C42 
+Native Product: 31 | Product Name: Tea | Depot Cash:1.89 | First Company - External Product: 20 | Second Company - External Product: 4
+, Depot C43 
+Native Product: 50 | Product Name: Tea | Depot Cash:0.48 | First Company - External Product: 27 | Second Company - External Product: 33
+, Depot C44 
+Native Product: 40 | Product Name: Tea | Depot Cash:0.83 | First Company - External Product: 9 | Second Company - External Product: 39
+, Depot C45 
+Native Product: 37 | Product Name: Tea | Depot Cash:2.81 | First Company - External Product: 29 | Second Company - External Product: 39
+, Depot C46 
+Native Product: 32 | Product Name: Tea | Depot Cash:2.48 | First Company - External Product: 11 | Second Company - External Product: 40
+, Depot C47 
+Native Product: 34 | Product Name: Tea | Depot Cash:2.45 | First Company - External Product: 17 | Second Company - External Product: 28
+, Depot C48 
+Native Product: 24 | Product Name: Tea | Depot Cash:1.25 | First Company - External Product: 35 | Second Company - External Product: 33
+, Depot C49 
+Native Product: 16 | Product Name: Tea | Depot Cash:2.06 | First Company - External Product: 23 | Second Company - External Product: 4
+, Depot C50 
+Native Product: 32 | Product Name: Tea | Depot Cash:0.12 | First Company - External Product: 37 | Second Company - External Product: 25
+, Depot B1 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:2.0 | First Company - External Product: 28 | Second Company - External Product: 15
+, Depot B2 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:0.08 | First Company - External Product: 13 | Second Company - External Product: 37
+, Depot B3 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:23.13 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot B4 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:180.77 | First Company - External Product: 29 | Second Company - External Product: 40
+, Depot B5 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:0.92 | First Company - External Product: 10 | Second Company - External Product: 27
+, Depot B6 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:170.03 | First Company - External Product: 28 | Second Company - External Product: 40
+, Depot B7 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:361.15 | First Company - External Product: 15 | Second Company - External Product: 40
+, Depot B8 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:60.54 | First Company - External Product: 34 | Second Company - External Product: 40
+, Depot B9 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:0.13 | First Company - External Product: 35 | Second Company - External Product: 20
+, Depot B10 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:0.82 | First Company - External Product: 40 | Second Company - External Product: 36
+, Depot B11 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:23.89 | First Company - External Product: 27 | Second Company - External Product: 40
+, Depot B12 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:1.95 | First Company - External Product: 38 | Second Company - External Product: 39
+, Depot B13 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:1.5 | First Company - External Product: 40 | Second Company - External Product: 20
+, Depot B14 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:2.94 | First Company - External Product: 40 | Second Company - External Product: 23
+, Depot B15 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:377.92 | First Company - External Product: 39 | Second Company - External Product: 40
+, Depot B16 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:1.27 | First Company - External Product: 33 | Second Company - External Product: 38
+, Depot B17 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:4.4 | First Company - External Product: 11 | Second Company - External Product: 22
+, Depot B18 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:63.74 | First Company - External Product: 21 | Second Company - External Product: 40
+, Depot B19 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:6.31 | First Company - External Product: 21 | Second Company - External Product: 16
+, Depot B20 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:0.89 | First Company - External Product: 26 | Second Company - External Product: 37
+, Depot B21 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:103.3 | First Company - External Product: 33 | Second Company - External Product: 40
+, Depot B22 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:186.33 | First Company - External Product: 17 | Second Company - External Product: 40
+, Depot B23 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:5.16 | First Company - External Product: 24 | Second Company - External Product: 22
+, Depot B24 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:57.42 | First Company - External Product: 10 | Second Company - External Product: 40
+, Depot B25 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:0.52 | First Company - External Product: 18 | Second Company - External Product: 21
+, Depot B26 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:1.06 | First Company - External Product: 28 | Second Company - External Product: 16
+, Depot B27 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:4.69 | First Company - External Product: 13 | Second Company - External Product: 39
+, Depot B28 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:2.16 | First Company - External Product: 39 | Second Company - External Product: 21
+, Depot B29 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:187.75 | First Company - External Product: 30 | Second Company - External Product: 40
+, Depot B30 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:266.36 | First Company - External Product: 14 | Second Company - External Product: 40
+, Depot B31 
+Native Product: 15 | Product Name: Chocolate | Depot Cash:6.0 | First Company - External Product: 40 | Second Company - External Product: 33
+, Depot B32 
+Native Product: 17 | Product Name: Chocolate | Depot Cash:100.0 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot B33 
+Native Product: 36 | Product Name: Chocolate | Depot Cash:4.13 | First Company - External Product: 35 | Second Company - External Product: 5
+, Depot B34 
+Native Product: 23 | Product Name: Chocolate | Depot Cash:0.43 | First Company - External Product: 31 | Second Company - External Product: 14
+, Depot B35 
+Native Product: 22 | Product Name: Chocolate | Depot Cash:0.69 | First Company - External Product: 22 | Second Company - External Product: 17
+, Depot B36 
+Native Product: 42 | Product Name: Chocolate | Depot Cash:2.54 | First Company - External Product: 11 | Second Company - External Product: 5
+, Depot B37 
+Native Product: 49 | Product Name: Chocolate | Depot Cash:0.33 | First Company - External Product: 30 | Second Company - External Product: 8
+, Depot B38 
+Native Product: 24 | Product Name: Chocolate | Depot Cash:0.92 | First Company - External Product: 36 | Second Company - External Product: 33
+, Depot B39 
+Native Product: 24 | Product Name: Chocolate | Depot Cash:2.51 | First Company - External Product: 40 | Second Company - External Product: 36
+, Depot B40 
+Native Product: 30 | Product Name: Chocolate | Depot Cash:2.99 | First Company - External Product: 37 | Second Company - External Product: 16
+, Depot B41 
+Native Product: 42 | Product Name: Chocolate | Depot Cash:0.38 | First Company - External Product: 10 | Second Company - External Product: 8
+, Depot B42 
+Native Product: 29 | Product Name: Chocolate | Depot Cash:2.21 | First Company - External Product: 26 | Second Company - External Product: 37
+, Depot B43 
+Native Product: 49 | Product Name: Chocolate | Depot Cash:0.09 | First Company - External Product: 21 | Second Company - External Product: 13
+, Depot B44 
+Native Product: 33 | Product Name: Chocolate | Depot Cash:0.02 | First Company - External Product: 31 | Second Company - External Product: 33
+, Depot B45 
+Native Product: 28 | Product Name: Chocolate | Depot Cash:2.03 | First Company - External Product: 40 | Second Company - External Product: 35
+, Depot B46 
+Native Product: 22 | Product Name: Chocolate | Depot Cash:2.15 | First Company - External Product: 36 | Second Company - External Product: 5
+, Depot B47 
+Native Product: 42 | Product Name: Chocolate | Depot Cash:0.65 | First Company - External Product: 9 | Second Company - External Product: 30
+, Depot B48 
+Native Product: 17 | Product Name: Chocolate | Depot Cash:0.91 | First Company - External Product: 25 | Second Company - External Product: 23
+, Depot B49 
+Native Product: 33 | Product Name: Chocolate | Depot Cash:1.99 | First Company - External Product: 40 | Second Company - External Product: 12
+, Depot B50 
+Native Product: 49 | Product Name: Chocolate | Depot Cash:0.08 | First Company - External Product: 36 | Second Company - External Product: 20
+, Depot A1 
+Native Product: 15 | Product Name: Coffee | Depot Cash:1.82 | First Company - External Product: 24 | Second Company - External Product: 28
+, Depot A2 
+Native Product: 15 | Product Name: Coffee | Depot Cash:1.2 | First Company - External Product: 19 | Second Company - External Product: 24
+, Depot A3 
+Native Product: 15 | Product Name: Coffee | Depot Cash:229.91 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot A4 
+Native Product: 15 | Product Name: Coffee | Depot Cash:0.22 | First Company - External Product: 40 | Second Company - External Product: 14
+, Depot A5 
+Native Product: 15 | Product Name: Coffee | Depot Cash:61.55 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot A6 
+Native Product: 15 | Product Name: Coffee | Depot Cash:4.21 | First Company - External Product: 40 | Second Company - External Product: 31
+, Depot A7 
+Native Product: 15 | Product Name: Coffee | Depot Cash:1.09 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot A8 
+Native Product: 15 | Product Name: Coffee | Depot Cash:413.16 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot A9 
+Native Product: 15 | Product Name: Coffee | Depot Cash:0.5 | First Company - External Product: 32 | Second Company - External Product: 11
+, Depot A10 
+Native Product: 15 | Product Name: Coffee | Depot Cash:4.28 | First Company - External Product: 35 | Second Company - External Product: 26
+, Depot A11 
+Native Product: 15 | Product Name: Coffee | Depot Cash:291.64 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot A12 
+Native Product: 15 | Product Name: Coffee | Depot Cash:0.68 | First Company - External Product: 40 | Second Company - External Product: 27
+, Depot A13 
+Native Product: 15 | Product Name: Coffee | Depot Cash:1.15 | First Company - External Product: 40 | Second Company - External Product: 29
+, Depot A14 
+Native Product: 15 | Product Name: Coffee | Depot Cash:2.63 | First Company - External Product: 40 | Second Company - External Product: 30
+, Depot A15 
+Native Product: 15 | Product Name: Coffee | Depot Cash:1.68 | First Company - External Product: 40 | Second Company - External Product: 32
+, Depot A16 
+Native Product: 15 | Product Name: Coffee | Depot Cash:0.28 | First Company - External Product: 40 | Second Company - External Product: 21
+, Depot A17 
+Native Product: 15 | Product Name: Coffee | Depot Cash:0.04 | First Company - External Product: 25 | Second Company - External Product: 4
+, Depot A18 
+Native Product: 15 | Product Name: Coffee | Depot Cash:2.57 | First Company - External Product: 40 | Second Company - External Product: 20
+, Depot A19 
+Native Product: 15 | Product Name: Coffee | Depot Cash:3.11 | First Company - External Product: 40 | Second Company - External Product: 34
+, Depot A20 
+Native Product: 15 | Product Name: Coffee | Depot Cash:0.27 | First Company - External Product: 40 | Second Company - External Product: 33
+, Depot A21 
+Native Product: 15 | Product Name: Coffee | Depot Cash:1.58 | First Company - External Product: 40 | Second Company - External Product: 32
+, Depot A22 
+Native Product: 15 | Product Name: Coffee | Depot Cash:0.54 | First Company - External Product: 40 | Second Company - External Product: 20
+, Depot A23 
+Native Product: 15 | Product Name: Coffee | Depot Cash:2.38 | First Company - External Product: 23 | Second Company - External Product: 4
+, Depot A24 
+Native Product: 15 | Product Name: Coffee | Depot Cash:17.06 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot A25 
+Native Product: 15 | Product Name: Coffee | Depot Cash:86.54 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot A26 
+Native Product: 15 | Product Name: Coffee | Depot Cash:58.32 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot A27 
+Native Product: 15 | Product Name: Coffee | Depot Cash:4.44 | First Company - External Product: 23 | Second Company - External Product: 11
+, Depot A28 
+Native Product: 15 | Product Name: Coffee | Depot Cash:4.25 | First Company - External Product: 22 | Second Company - External Product: 18
+, Depot A29 
+Native Product: 15 | Product Name: Coffee | Depot Cash:1.24 | First Company - External Product: 40 | Second Company - External Product: 31
+, Depot A30 
+Native Product: 15 | Product Name: Coffee | Depot Cash:47.48 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot A31 
+Native Product: 15 | Product Name: Coffee | Depot Cash:57.27 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot A32 
+Native Product: 15 | Product Name: Coffee | Depot Cash:0.88 | First Company - External Product: 40 | Second Company - External Product: 13
+, Depot A33 
+Native Product: 15 | Product Name: Coffee | Depot Cash:4.15 | First Company - External Product: 11 | Second Company - External Product: 12
+, Depot A34 
+Native Product: 15 | Product Name: Coffee | Depot Cash:0.59 | First Company - External Product: 40 | Second Company - External Product: 39
+, Depot A35 
+Native Product: 28 | Product Name: Coffee | Depot Cash:1.27 | First Company - External Product: 39 | Second Company - External Product: 26
+, Depot A36 
+Native Product: 44 | Product Name: Coffee | Depot Cash:0.41 | First Company - External Product: 9 | Second Company - External Product: 28
+, Depot A37 
+Native Product: 33 | Product Name: Coffee | Depot Cash:0.43 | First Company - External Product: 11 | Second Company - External Product: 24
+, Depot A38 
+Native Product: 24 | Product Name: Coffee | Depot Cash:1.5 | First Company - External Product: 31 | Second Company - External Product: 16
+, Depot A39 
+Native Product: 19 | Product Name: Coffee | Depot Cash:4.08 | First Company - External Product: 14 | Second Company - External Product: 3
+, Depot A40 
+Native Product: 40 | Product Name: Coffee | Depot Cash:4.67 | First Company - External Product: 36 | Second Company - External Product: 10
+, Depot A41 
+Native Product: 17 | Product Name: Coffee | Depot Cash:0.2 | First Company - External Product: 25 | Second Company - External Product: 18
+, Depot A42 
+Native Product: 17 | Product Name: Coffee | Depot Cash:0.27 | First Company - External Product: 40 | Second Company - External Product: 40
+, Depot A43 
+Native Product: 30 | Product Name: Coffee | Depot Cash:2.07 | First Company - External Product: 14 | Second Company - External Product: 31
+, Depot A44 
+Native Product: 45 | Product Name: Coffee | Depot Cash:4.49 | First Company - External Product: 35 | Second Company - External Product: 8
+, Depot A45 
+Native Product: 45 | Product Name: Coffee | Depot Cash:2.05 | First Company - External Product: 38 | Second Company - External Product: 15
+, Depot A46 
+Native Product: 23 | Product Name: Coffee | Depot Cash:0.99 | First Company - External Product: 40 | Second Company - External Product: 31
+, Depot A47 
+Native Product: 15 | Product Name: Coffee | Depot Cash:4.25 | First Company - External Product: 34 | Second Company - External Product: 15
+, Depot A48 
+Native Product: 21 | Product Name: Coffee | Depot Cash:1.34 | First Company - External Product: 29 | Second Company - External Product: 27
+, Depot A49 
+Native Product: 25 | Product Name: Coffee | Depot Cash:4.13 | First Company - External Product: 31 | Second Company - External Product: 26
+, Depot A50 
+Native Product: 30 | Product Name: Coffee | Depot Cash:1.58 | First Company - External Product: 27 | Second Company - External Product: 35
+]
